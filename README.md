@@ -1,5 +1,6 @@
 Tests avec puppeteer
 ====================
+test
 
 Repo cloned from https://github.com/le-campus-numerique/module-test-puppeteer - Based on the work done by Philippe Le Van
 
